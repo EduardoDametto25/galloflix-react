@@ -1,0 +1,26 @@
+Criar um projeto
+
+    npx create-expo-app@latest GalloFlix --template blank
+
+    cd GalloFlix
+
+Instalação dos pacotes
+    npx expo install react-dom react-native-web @expo/metro-runtime
+
+    npm install @react-navigation/native @react-navigation/stack  @react-navigation/bottom-tabs
+
+    npx expo install react-native-screens react-native-safe-area-context react-native-gesture-handler @react-native-masked-view/masked-view
+
+    npm install firebase
+
+
+
+
+
+
+------------------------------------------------------------
+configurar o Git local
+git config --global user.name EduardoDametto
+git config --global user.email eduardodametto@etec.sp.gov.br
+git config --global user.name EduardoDametto25
+git config --global user.email damettoed@gmail.com
